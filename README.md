@@ -1,5 +1,6 @@
 # Мое резюме:
-- [Резюме](https://github.com/raphael12/raphael12/blob/main/Eng.pdf)
+- [Resume](https://github.com/raphael12/raphael12/blob/main/Eng.pdf)
+- [Резюме](https://github.com/raphael12/raphael12/blob/main/Rus_CV.pdf)
 
 
 # Курсы:
