@@ -1,10 +1,5 @@
 # Мое резюме:
-- [Резюме](https://github.com/sxemixa/sxemixa/blob/main/%D0%A5%D0%B0%D1%81%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB.pdf)
-
-# Сертификаты:
- - Яндекс.Практикум: Специалист по Data Science 
- - Coursera, HSE University and Yandex School of Data analysis, Introduction to Machine Learning
- - Школа BEEGEEK: "Поколение Python": курс для продвинутых ("https://stepik.org/cert/1635683")
+- [Резюме](https://github.com/raphael12/raphael12/blob/main/Eng.pdf)
 
 
 # Курсы:
@@ -14,13 +9,13 @@
   <th>Сертификат/Диплом</th>
 <tr>
   <td><a href = "https://practicum.yandex.ru/profile/data-science-bootcamp/">Яндекс.Практикум: Специалист по Data Science bootcamp</a></td>
-  <td><a href = "ссылка">Ссылка</a></td>
+  <td><a href = "https://github.com/raphael12/raphael12/blob/main/Pract_Rus.pdf">Диплом</a></td>
 <tr>
-  <td><a href = "https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie">Coursera, Introduction to Machine Learning</a></td>
-  <td><a href = "ссылка">https://coursera.org/share/cd7593501b088aa0d8e7c1a49ec417f3</a></td>
+  <td><a href = "https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie">Coursera, HSE University and Yandex School of Data analysis, Introduction to Machine Learning</a></td>
+  <td><a href = "https://coursera.org/share/cd7593501b088aa0d8e7c1a49ec417f3">Сертификат</a></td>
 <tr>
-  <td><a href = "https://stepik.org/course/68343/syllabus">"Поколение Python": курс для продвинутых</a></td>
-  <td><a href = "ссылка">https://stepik.org/cert/1635683</a></td>	
+  <td><a href = "https://stepik.org/course/68343/syllabus">Школа BEEGEEK: "Поколение Python": курс для продвинутых </a></td>
+  <td><a href = "https://stepik.org/cert/1635683">Сертификат</a></td>	
 </table>
 
 
